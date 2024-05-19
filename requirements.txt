@@ -1,0 +1,12 @@
+flask
+pymongo
+docx2txt
+pydub
+flask_cors
+logging
+
+soundfile
+speechbrain
+torchaudio
+transformers
+huggingface_hub
